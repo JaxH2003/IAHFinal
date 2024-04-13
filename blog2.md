@@ -3,7 +3,7 @@ layout: layout.liquid
 title: My Galactic Adventures
 ---
 
-# Galactic Post 2 #
+# **Anakin Skywalker** #
 ## Navigation of the Deadly Asteroid Field ##
 ### Our interstellar voyage took an unexpected turn as our spacecraft, the "Stellar Explorer," found itself trapped in an asteroid field. What had initially seemed like a thrilling trip through the cosmos quickly turned into a horrible one. The endless field of debris made it very hard to traverse the field safely. The only thought on each of my crewmates mind was if we were going to make it back to the space station tonight ###
 

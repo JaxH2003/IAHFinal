@@ -3,7 +3,7 @@ layout: layout.liquid
 title: My Galactic Adventures
 ---
 
-# Galactic Post 1 #
+# **Paul Atreides** #
 ## My First Trip to Jupiter ##
 ### The journey to Jupiter was a leap into the unknown, a journey was way outside the realm of a typical human exporation. Our spacecraft, the "Stellar Explorer," navigated space with precision and grace, eventually reaching the gas giant that has mystified and confused astronomers and humanity for hundreds of years. When we apprached the red giant, its enormity was unparalleled, and nothing like we had seen in previous pictures. ###
 

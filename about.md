@@ -3,7 +3,7 @@ layout: layout.liquid
 title: About
 ---
 
-# All About **Myself**
+#  **Neo**
 ## Name: Jackson Hefke ##
 ## Title : Galactic Explorer ##
 ## Experience : 15 years ## 
