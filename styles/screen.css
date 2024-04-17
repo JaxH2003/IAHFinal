@@ -48,13 +48,8 @@ h1 strong {
 h3 {
     display:flex;
     text-align:center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Arial, Helvetica, sans-serif;
     padding: 0px;
     margin:50px;
 }
-.user_name {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.last_name {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+
