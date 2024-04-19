@@ -13,4 +13,4 @@ title: Chosen Ones
 
 ## Use of the Chosen One Trope ##
 
-### In Dune, 
+### The writers of Dune use the Chosen One Trope to convey a message about power and legacy. Throughout the story of Dune, Paul struggles with the Fremen believing that he is the Lisan Al-Gaib. He doesn’t want to be the chosen one. He just wants to have a life as a part of the Fremen. It’s not until his mother makes him drink a potion that lets him see into the future, that he starts to step into the role of the chosen one. Once Paul saw into the future, he realized that to save the most lives, he needed to lead the Fremen into war. Unfortunately, this played right into the Bene Gesserit’s plans. The Bene Gesserit’s goal is to seize power and Paul is the perfect one to do that. At the end of Dune 2, Paul and the Fremen are getting ready for a galactic war. It will be interesting to see how the Chosen One Trope is used in the next movie. ###
